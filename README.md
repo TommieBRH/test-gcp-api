@@ -1,2 +1,2 @@
 # test-gcp-api
-test api to manage seemless deployments and file duplications
+test api to test seemless deployments and file duplications
